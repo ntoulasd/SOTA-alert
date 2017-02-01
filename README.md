@@ -3,7 +3,7 @@ SOTA filtering and notification
 
 It is an Autoit script which parse sota activators
 
-Ajust script to your needs. Now scipt notify for SV area.
+Adjust script to your needs. Now scipt notify for SV area.
 
 
 
